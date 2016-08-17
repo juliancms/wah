@@ -5,4 +5,5 @@ This is an application developed quickly to temporarily provide a solution to th
 ## Installation
 * Install Phalcon
 * Copy the repository
-* Create folders cache/volt at the root of the application
+* Create folders 'cache/volt' at the root of the application
+* Upload wah.sql and configure in the file 'app/config/config.ini'
